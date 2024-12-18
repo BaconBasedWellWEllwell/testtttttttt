@@ -1,2 +1,3 @@
-local lol = 99192719568313
-require(lol):Start()
+task.spawn(function()
+require(0000)()
+end)
